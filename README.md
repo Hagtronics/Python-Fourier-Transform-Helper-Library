@@ -31,11 +31,11 @@ Step by step examples are given for many use cases showing how to,
 With all this windowing, scaling, and slicing of the raw Fourier Transform data into a usable positive frequency only display,
 it is not possible to go backward and perform a proper Inverse Fourier Transform on the FFT output. This is because of the
 way the Fourier Transforms work. The transforms basic math requires that the total energy in a forward and inverse
-transform be maintained [2]. After all the windowing, scaling, etc. This would have to be backed out somehow to get back
+transform be maintained. After all the windowing, scaling, etc. This would have to be backed out somehow to get back
 to the original signal and this is not the purpose of this library at all. As shown above, the purpose of this library is to make
 a usable and correctly scaled Forward Transform with the minimum user required steps.
   
 ## More:  
 See the full user guide in the 'docs' directory.  
 The source code is in the 'src' directory.  
-The examples are in the 'examples' directory.  
+The 'cookbook' examples are in the 'examples' directory.  
