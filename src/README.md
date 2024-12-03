@@ -1,1 +1,1 @@
-To use the FT Helper Lib plase see the PDF Users Guide in the 'docs' directory. 
+To use the FT Helper Lib please see the PDF Users Guide in the 'docs' directory. 
