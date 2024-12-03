@@ -41,5 +41,6 @@ a usable and correctly scaled Forward Transform with the minimum user required s
   
 ## More:  
 See the full user guide in the 'docs' directory.  
+  https://github.com/Hagtronics/Python-Fourier-Transform-Helper-Library/blob/main/docs/Python%20Fourier%20Transform%20Helper%20Library%20-%20CodeProject.pdf  
 The source code is in the 'src' directory.  
 The 'cookbook' examples are in the 'examples' directory.  
