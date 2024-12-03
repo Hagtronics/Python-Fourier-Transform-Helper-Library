@@ -1,8 +1,7 @@
 # Python-Fourier-Transform-Helper-Library  
 
 ## Note:  
-Originally published on: "Code Project", 2022. Moved here because of the Code Projects demise.
-https://www.codeproject.com/Articles/5329670/Python-Fourier-Transform-Helper-Library
+Originally published on: "Code Project", 2022. Moved here because of the Code Projects demise.  
   
 ## Overview:  
 A Python Library to help make properly scaled Fourier Transforms including utility functions.
